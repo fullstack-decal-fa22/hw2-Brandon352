@@ -1,1 +1,1 @@
-https://github.com/fullstack-decal-fa22/hw2-Brandon352
+https://fullstack-decal-fa22.github.io/hw2-Brandon352/
